@@ -1,6 +1,6 @@
-#Tugas 1
+# Tugas 1
 
-##Deskripsi
+## Deskripsi
 
 Membuat login atau register page dengan menggunakan HTML & CSS. 
 Bisa dibuat semenarik mungkin
